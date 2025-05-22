@@ -58,11 +58,11 @@ StringOperationsDemo.java :- [Output Screenshot](https://github.com/rohinirb5678
 
 📸 3b_String_Exercises_2-
 
-7. CapitalizeEachWord.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_CapitalizeEachWord.png)
-8. TruncateString.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_TruncateString.png)
-9. NumericCheck.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_NumericCheck.png)
-10. RandomStringGenerator.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_RandomStringGenerator.png)
-11. WordCounter.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_WordCounter.png)
+6. CapitalizeEachWord.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_CapitalizeEachWord.png)
+7. TruncateString.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_TruncateString.png)
+8. NumericCheck.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_NumericCheck.png)
+9. RandomStringGenerator.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_RandomStringGenerator.png)
+10. WordCounter.java :- [Output Screenshot](https://github.com/rohinirb56789/Advanced-Java/blob/main/LAB-3_String_Operations/3b_String_Exercises_2/Screenshot-3c_String_WordCounter.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
